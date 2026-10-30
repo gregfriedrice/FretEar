@@ -1,0 +1,18 @@
+{
+  "guitar": {
+    "url": "/api/audio/preset-blues-am_guitar",
+    "name": "Lead Guitar"
+  },
+  "backing": {
+    "url": "/api/audio/preset-blues-am_backing",
+    "name": "Backing Band (Minus Guitar)"
+  },
+  "bass": {
+    "url": "/api/audio/preset-blues-am_bass",
+    "name": "Bass Line"
+  },
+  "drums": {
+    "url": "/api/audio/preset-blues-am_drums",
+    "name": "Drums & Percussion"
+  }
+}

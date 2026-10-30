@@ -1,0 +1,6 @@
+{
+  "name": "FretEar - Guitar Phrase By Ear Looper",
+  "description": "Interactive audio looper and phrase trainer for electric guitarists with pitch-preserved speed scaling, A/B looping, waveform scrubbing, and hands-free keyboard shortcuts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+{
+  "guitar": {
+    "url": "/api/audio/golTiF6d7iU_guitar",
+    "name": "Lead Guitar"
+  },
+  "backing": {
+    "url": "/api/audio/golTiF6d7iU_backing",
+    "name": "Backing Band (Minus Guitar)"
+  },
+  "bass": {
+    "url": "/api/audio/golTiF6d7iU_bass",
+    "name": "Bass Line"
+  },
+  "drums": {
+    "url": "/api/audio/golTiF6d7iU_drums",
+    "name": "Drums & Percussion"
+  }
+}
